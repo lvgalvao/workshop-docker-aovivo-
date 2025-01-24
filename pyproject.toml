@@ -7,8 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
-streamlit = "^1.32.0"
-
+streamlit = "*"
 
 [build-system]
 requires = ["poetry-core"]
